@@ -9,8 +9,8 @@ Please contact me at yanxuemeng0520@gmail.com or 07918387485
 
 ### Education Experience
 
-**London School of Economics and Political Science**                                                                                          London, United Kingdom
-MSc Data Science                                                                                                                    Aug. 2020 – June. 2021(Expected)
+**London School of Economics and Political Science**                                                                                         London, United Kingdom\
+MSc Data Science                                                                                                                   Aug. 2020 – June. 2021(Expected)\
 
 - Course:
 Machine Learning and Data Mining
@@ -21,10 +21,9 @@ Artificial Intelligence and Deep Learning
 Bayesian Machine Learning
 Capstone Project
 
-**Centre College (Magna Cum Laude)**                                                                                                         Danville, United States
+**Centre College (Magna Cum Laude)**                                                                                                        Danville, United States\
 BSc in Mathematics Major GPA: 4.00/4.00 
-BSc in Economics and Finance Major GPA: 3.91/4.00                                                                                              Sep. 2016 – June 2020
-
+BSc in Economics and Finance Major GPA: 3.91/4.00                                                                                             Sep. 2016 – June 2020\
 - Courses: 
 Linear Algebra
 Differential Equation
@@ -45,8 +44,8 @@ Managerial Finance
 
 ### PROFESSIONAL EXPERIENCE
 
-**Accenture**                                                                                                                                       Beijing, China
-*Business Consultant                                                                                                                           June 2020 –Sep. 2020*
+**Accenture**                                                                                                                                       Beijing, China\
+*Business Consultant                                                                                                                          June 2020 –Sep. 2020*\
 * Independently wrote a comprehensive report on Chinese E-Commerce Industry. Identified the industry trends,
 competition structures, market capacity, and profit models suggesting our client to expand the B2B market.
 * Communicated the needs of our client to complete the digital transformation. Optimized and standardized the feature
@@ -54,25 +53,25 @@ of initiating rebates on an internal operational platform, BMC.
 * Examined the business procedure and potential scenarios for introducing a new financial product “Weizhong” on the
 Taili Mall. Discussed the requirements and feasibility with business and IT divisions for implementation.
 
-**PingAn Insurance**                                                                                                                                Beijing, China
-*Summer Finance Trainee, Finance Department                                                                                                    May 2019 – Aug. 2019*
+**PingAn Insurance**                                                                                                                                Beijing, China\
+*Summer Finance Trainee, Finance Department                                                                                                   May 2019 – Aug. 2019*\
 * Tracked the data (and built a database with Python) for the loan products developed by other employees of the team
 and analyzed the performance of each product including Huabei, Bailing Loan, Jiebei.
 * Assisted team members in creating a new loan product, “Healthy Pork”, for agriculture industry – from developing the
 procedure map and contacting the involved stakeholders to successfully launching the loan product online.
 * Contributed to risk management department in brainstorming the aspects of potential risks, evaluating and managing the risks of each application for “Healthy Pork” using credit scoring system, keeping the delinquency rate under 3.8%.
  
-**JFP Holdings, Ltd**                                                                                                                               Beijing, China
-*Summer Analyst, Strategy Advisory Department                                                                                                  May 2018 – Aug. 2018*
+**JFP Holdings, Ltd**                                                                                                                               Beijing, China\
+*Summer Analyst, Strategy Advisory Department                                                                                                 May 2018 – Aug. 2018*\
 * Provided business expansion (budget: $500K) advisory for Ford Motor Company in Chinese aftermarket, and selected Guangzhou to be the best location for the center od development.
 * Analyzed the historical performance, current and pro-forma capital structures, and future outlook of companies for mergers and acquisitions purposes. Assisted BYD in merging Qinchuan Group Cp., Ltd to explore the market of NEV.
 * Evaluated the business performance of a factory of Bergstrom Int. in order to consult the Board of the company on manufacturing expansions based on the business and political environment in China.
 
 
 ### RESEARCH EXPERIENCE
-Yan, Xuemeng. (June. 2020). *Is Differential Fertility a Determinant of Regional Economic Growth in the United States?* Independent Study, Centre College. Danville, Kentucky, United States.
-Yan, Xuemeng. (Dec. 2019). *The Impact of Alcohol Taxes and Level of Consumptions on Traffic Fatality Rates for data from 2010 - 2017.* Senior Seminar, Centre College. Danville, Kentucky, United States.
-Yan, Xuemeng. (May. 2019). *Analysis of the Influence of Age on Standard Test Scores in Reading, Mathematics and Science.* Empirical Analysis Seminar, Centre College. Danville, Kentucky, United States.
+Yan, Xuemeng. (June. 2020). *Is Differential Fertility a Determinant of Regional Economic Growth in the United States?* Independent Study, Centre College. Danville, Kentucky, United States.\
+Yan, Xuemeng. (Dec. 2019). *The Impact of Alcohol Taxes and Level of Consumptions on Traffic Fatality Rates for data from 2010 - 2017.* Senior Seminar, Centre College. Danville, Kentucky, United States.\
+Yan, Xuemeng. (May. 2019). *Analysis of the Influence of Age on Standard Test Scores in Reading, Mathematics and Science.* Empirical Analysis Seminar, Centre College. Danville, Kentucky, United States.\
 Yan, Xuemeng. (Oct. 2018). *Evaluation the Implementation of Equality Act 2010 in Great Britain by April 2018.* Econometrics Project, University of Reading. Reading, United Kingdom.
 
 ### EXTRACURRICULAR ACTIVITIES
