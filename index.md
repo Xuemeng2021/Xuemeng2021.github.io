@@ -87,4 +87,4 @@ the 21st president for Centre College.
 ***Member, Paul W. Chellgren Investment Society, Centre College***                                                                             Jan. 2017 – June 2020
 * Attend monthly equity group meetings on fundamental education in equity investments and contribute to society’s portfolio management
 
-## If you have any further questions or want to contact me, feel free to write me an email at yanxuemeng0520@gmail.com. Thank you.
+## If you have any further questions or want to contact me, feel free to write me an email at yanxuemeng0520@gmail.com. Thank you :)
