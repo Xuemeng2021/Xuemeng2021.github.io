@@ -31,8 +31,7 @@ Probability Theory,
 Mathematical Statistics,
 Numerical Methods,
 Numerical Linear Algebra,
-Real Analysis
-
+Real Analysis,
 Money and Banking,
 Financial Accounting,
 Econometrics,
