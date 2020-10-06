@@ -21,7 +21,7 @@ Artificial Intelligence and Deep Learning,
 Bayesian Machine Learning,
 Capstone Project
 
-**Centre College (Magna Cum Laude)**                                                                                                        Danville, United States
+**Centre College (Magna Cum Laude)**                                                                                                      Danville, United States\
 BSc in Mathematics Major GPA: 4.00/4.00 
 BSc in Economics and Finance Major GPA: 3.91/4.00                                                                                             Sep. 2016 – June 2020
 - Courses: 
@@ -43,7 +43,7 @@ Managerial Finance,
 
 ### PROFESSIONAL EXPERIENCE
 
-**Accenture**                                                                                                                                       Beijing, China
+**Accenture**                                                                                                                                      Beijing, China\
 *Business Consultant                                                                                                                          June 2020 –Sep. 2020*
 * Independently wrote a comprehensive report on Chinese E-Commerce Industry. Identified the industry trends,
 competition structures, market capacity, and profit models suggesting our client to expand the B2B market.
@@ -52,7 +52,7 @@ of initiating rebates on an internal operational platform, BMC.
 * Examined the business procedure and potential scenarios for introducing a new financial product “Weizhong” on the
 Taili Mall. Discussed the requirements and feasibility with business and IT divisions for implementation.
 
-**PingAn Insurance**                                                                                                                                Beijing, China
+**PingAn Insurance**                                                                                                                              Beijing, China\
 *Summer Finance Trainee, Finance Department                                                                                                   May 2019 – Aug. 2019*
 * Tracked the data (and built a database with Python) for the loan products developed by other employees of the team
 and analyzed the performance of each product including Huabei, Bailing Loan, Jiebei.
@@ -60,7 +60,7 @@ and analyzed the performance of each product including Huabei, Bailing Loan, Jie
 procedure map and contacting the involved stakeholders to successfully launching the loan product online.
 * Contributed to risk management department in brainstorming the aspects of potential risks, evaluating and managing the risks of each application for “Healthy Pork” using credit scoring system, keeping the delinquency rate under 3.8%.
  
-**JFP Holdings, Ltd**                                                                                                                               Beijing, China
+**JFP Holdings, Ltd**                                                                                                                             Beijing, China\
 *Summer Analyst, Strategy Advisory Department                                                                                                 May 2018 – Aug. 2018*
 * Provided business expansion (budget: $500K) advisory for Ford Motor Company in Chinese aftermarket, and selected Guangzhou to be the best location for the center od development.
 * Analyzed the historical performance, current and pro-forma capital structures, and future outlook of companies for mergers and acquisitions purposes. Assisted BYD in merging Qinchuan Group Cp., Ltd to explore the market of NEV.
