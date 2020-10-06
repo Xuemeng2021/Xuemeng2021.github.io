@@ -1,6 +1,6 @@
 ## Welcome to Xuemeng's Pages
 
-Hello there! This is Xuemeng Yan and here is my [Linkedin](https://www.linkedin.com/in/xuemeng-yan-524045139/). 
+Hello there! This is Xuemeng Yan and here is my [Linkedin](www.linkedin.com/in/xuemeng-yan). 
 
 I am a student from Beijing,China studying MSc Data Science at LSE. Besides, I am also a researcher with strong quantitative skills and excellent programming experience in Python, R, MATLAB, STATA, SQL. Aspiring to pursue a career as a Data Scientist in Tech/Consulting/ Finance/ Banking industry.
 
