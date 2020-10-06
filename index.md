@@ -13,31 +13,31 @@ Please contact me at yanxuemeng0520@gmail.com or 07918387485
 MSc Data Science                                                                                                                   Aug. 2020 – June. 2021(Expected)
 
 - Course:
-Machine Learning and Data Mining
-Managing and Visualising Data
-Distributed Computing for Big Data
-Data Analysis and Statistical Methods
-Artificial Intelligence and Deep Learning
-Bayesian Machine Learning
+Machine Learning and Data Mining,
+Managing and Visualising Data,
+Distributed Computing for Big Data,
+Data Analysis and Statistical Methods,
+Artificial Intelligence and Deep Learning,
+Bayesian Machine Learning,
 Capstone Project
 
 **Centre College (Magna Cum Laude)**                                                                                                        Danville, United States
 BSc in Mathematics Major GPA: 4.00/4.00 
 BSc in Economics and Finance Major GPA: 3.91/4.00                                                                                             Sep. 2016 – June 2020
 - Courses: 
-Linear Algebra
-Differential Equation
-Probability Theory
-Mathematical Statistics
-Numerical Methods
-Numerical Linear Algebra
+Linear Algebra,
+Differential Equation,
+Probability Theory,
+Mathematical Statistics,
+Numerical Methods,
+Numerical Linear Algebra,
 Real Analysis
 
-Money and Banking
-Financial Accounting
-Econometrics
-Empirical Analysis
-Managerial Finance
+Money and Banking,
+Financial Accounting,
+Econometrics,
+Empirical Analysis,
+Managerial Finance,
 
 - Honors: Phi Beta Kappa Society (Mar. 2020 – June. 2020), Pi Mu Epsilon National Honor Mathematics Society (Mar. 2019 – June. 2020), Omicron Delta Kappa National Leadership Honor Society (Jan. 2019 – June. 2020), Omicron Delta Epsilon International Honor Society of Economics (Mar. 2018 – June. 2020), Dean’s List (Jan. 2017- June. 2020), Founder’s Merit Students Scholarship (Sept. 2016 – June. 2020)
 
